@@ -1,0 +1,7 @@
+type = "stock"
+symbol = "AMD"
+name = "A M D"
+quantity = "1000"
+price = "10.91"
+bookValue = "10919.99"
+
